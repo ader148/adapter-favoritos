@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Adaptador_favoritos_arriendo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+  <string-array name="descripciones_casas">
+      <item>Acogedora casa rural, situada a las afueras de la ciudad.
+             Económica, con la mejor relación calidad precio.</item>
+      <item>Increible oferta casa con parqueadero, dos pisos, amplias zonas verdes ubicada en el barrio el recuerdo.</item>
+      <item>Increible oferta casa con parqueadero, dos pisos, amplias zonas verdes ubicada en el barrio el recuerdo.</item>
+      <item>linda casa</item>
+</string-array>
+
+
+
+    <string-array name="tipo">
+        <item>Casa</item>
+        <item>Apartamento</item>
+        <item>Negocio</item>
+        <item>Habitacion</item>
+        <item>Oficina</item>
+
+    </string-array>
+
+
+</resources>
